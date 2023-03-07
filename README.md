@@ -1,4 +1,4 @@
-# Studious
+# studious-cli
 One of the struggles of being a self-taught is that nobody tests whether you have a solid understanding on a specific subject. Studious is an application where you can store notes (via question and answer format) on a specific subject and review them.
 
 ## Installation
